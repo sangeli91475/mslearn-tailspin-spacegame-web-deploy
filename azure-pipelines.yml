@@ -6,7 +6,7 @@ variables:
 
 stages:
 - stage: 'Build'
-  displayName: 'Building the web application'
+  displayName: 'Building the web application v3'
   jobs:
   - job: 'Build'
     displayName: 'Build job'
